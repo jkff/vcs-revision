@@ -1,6 +1,6 @@
 Name: vcs-revision
 Category: System, Data, Parsing
-Version: 0.0.1
+Version: 0.0.2
 Cabal-version: >= 1.2
 Build-type: Simple
 Copyright: Eugene Kirpichov
